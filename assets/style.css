@@ -365,8 +365,3 @@ top: 1172px;
 background: #FCF6BD;
 transform: rotate(-180deg);
 }
-.ftr {
-    position: absolute;
-  bottom: 0;
-  width: 100%;
-}
